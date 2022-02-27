@@ -1,5 +1,14 @@
 {
 	"name": "com.aiola.tools",
 	"version": "1.0.0-preview.1",
-	"displayName": "Aiola's Tools"
+	"displayName": "Aiola's Tools",
+	"description": "A small extension for myself",
+	"unityVersion": "2018.3.0f2",
+	"dependencies": {	},
+	"keywards": ["library", "tools", "utility"],
+	"author": {
+		"name": "Aiola",
+		"email": "barth.13arles@hotmail.fr",
+		"url": "https://ldurand.fr"
+	}
 }
